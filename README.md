@@ -1,11 +1,14 @@
 S&P 500 Stock Analysis Project README
-Project Overview
+Project Overview:
+
 This repository contains code and documentation for a machine learning project focused on forecasting S&P 500 stock prices. The project involves data collection, preprocessing, model building, and analysis using Python and various machine learning algorithms.
 
-Data Sources
+Data Sources:
+
 The project utilizes historical stock data from Yahoo Finance (yFinance) for 30 companies within the S&P 500 index. Data includes daily stock values spanning approximately four years, covering key financial metrics like Open, High, Low, Close, Adjusted Close, Volume, and Symbol.
 
-Data Preprocessing
+Data Preprocessing: 
+
 Data preprocessing involves cleaning, handling missing values, and formatting data for analysis. Steps include replacing null values, standardizing features using the standardScaler() function, and pivoting data for exploratory analysis and machine learning implementation.
 
 Machine Learning Models
